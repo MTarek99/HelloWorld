@@ -10,7 +10,7 @@ public class Hello{
 		}
 	
 	        System.out.println("The end of the Main Method");
-		
+		System.out.println("Catlight Test new feature added");	
 
 
 	}
